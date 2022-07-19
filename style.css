@@ -144,7 +144,7 @@ nav a:hover {
 }
 .footer {
   background: linear-gradient(rgba(233, 66, 110, 0.7), rgba(233, 66, 110, 0.7)),
-    url("/img/contact-bg.jpg");
+    url("./img/contact-bg.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   height: 30vh;
@@ -167,7 +167,7 @@ nav a:hover {
 @media screen and (max-width: 470px) {
   .header-background-img {
     background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-      url("/img/header-bg.jpg");
+      url("./img/header-bg.jpg");
     height: 60vh;
     width: 100%;
     background-repeat: no-repeat;
@@ -198,7 +198,7 @@ nav a:hover {
     width: 100%;
   }
   .manu__icon {
-    background: url("/img/icon-menu.svg");
+    background: url("./img/icon-menu.svg");
     background-repeat: no-repeat;
     background-size: cover;
     height: 20px;
@@ -301,7 +301,7 @@ nav a:hover {
         rgba(233, 66, 110, 0.7),
         rgba(233, 66, 110, 0.7)
       ),
-      url("/img/contact-bg.jpg");
+      url("./img/contact-bg.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     height: 50vh;
